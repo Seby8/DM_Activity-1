@@ -1,1 +1,1 @@
-# DM_Activity-1
+# Coding Propositional Logic
